@@ -1,0 +1,8 @@
+a4cca3315805dc4e2603c676a8a6d3fa *DESCRIPTION
+ed3864f1a869d6beeee3b17596d7d150 *NAMESPACE
+67f8b8183b3816aa99be2c0a6ff58378 *R/OSELM.R
+af5aa9ae64b0ca2d513030420c492abc *R/kernels.R
+6da65daa3b5cf41e56bcbd497bd6dd56 *man/OSelm_train.formula.Rd
+6abc1691c1091d98d304d6cc5342a7ab *man/OSelm_training.Rd
+59a0f29278cb215bd72cdbf43ec72c74 *man/preProcess.Rd
+1ba5d2d70c26bd07ef573c378abbfea5 *man/predict_elm.Rd
